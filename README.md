@@ -7,14 +7,17 @@ Limitations:
 hours to get data on a single company.
 - Sentiment Analysis: Could use more data
 
-<img src="examples/stopsign_result.png" alt="stopsign_result" height="250px" width="250px"> <img src="examples/dumpling_result.jpg" alt="dumpling_result" height="250px" width="250px"> <img src="examples/hamburger_result.png" alt="hamburger_result" height="250px" width="250px">
-
+<img src="visual-plots/pie-chart.png" alt="pie-chart" height="250px" width="750px">
 
 ## Introduction
 
 The goal of this project was to compare positive and negative statements posted on twitter and comparing them to effects they could have on the stock market.
 
 ***Beaware if you want to reproduce the result of this project, it may take hours to days to get the twitter data, since the offical API has restriction, we used 'Get-Old-Tweets-Programatically'. If you want to replot the result, all the data is avaliable in this repo.***
+
+<img src="visual-plots/snapchat.png" alt="snapchat" height="250px" width="600px">
+<img src="visual-plots/tesla.png" alt="tesla" height="250px" width="600px">
+<img src="visual-plots/united-airlines.png" alt="united-airlines" height="250px" width="600px">
 
 Key Events:
 1. Snapchat stock loses $1.3 billion after Kylie Jenner tweet  (Feb 21, 2018)
